@@ -12,9 +12,16 @@ I'm a self proclaimed information security nerd (see: CISO) working in London, m
  - Next.js ⚡
 
  If you are also excited by such technologies, then my repositories here may be of interest to you, but if you would like to know a bit more about me:
+ 
+[I'm probably in the Lounge.](http://jamieslounge.com/auth/signin)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23280292&title_bg=%2379AFFF&icon=quip.svg&icon_color=%23710098&title=Page+Views&edge_flat=false)](https://hits.seeyoufarm.com)[![wakatime](https://wakatime.com/badge/github/jamie-legg/ow-tracker.svg)](https://wakatime.com/badge/github/jamie-legg/ow-tracker)
+
+---
 
 My main passions lie in the realms of using the vast array of free and accessible technologies made available to us to empower our own capabilities, both technically and practically. Project Y is a dream I have to be able to to enumerate on any well-enough-composed idea and generate an ephemeral system based on those demands, but that is a dream far in the future. For now, there are many other projects I'm a part of that I would love to talk about, Halo, WYA, The Buddy Project, etc, you know who you are!
 
-[I'm probably in the Lounge.](http://jamieslounge.com/auth/signin)
+
 
 If not, you can reach me here: [Discord](https://discord.com/users/219502124709445633), [Twitter](https://twitter.com/jamie-f-legg), [Instagram](https://instagram.com/jamie_legg_)
+
