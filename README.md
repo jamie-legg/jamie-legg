@@ -5,7 +5,7 @@
 
 I'm a self proclaimed information security nerd working in London. My passion is based in intelligence gathering, and my experience and side projects speak to that. Some of my personally notable work includes:
  
- - [OSINTUI](https://osintui.com) - An attack surface vector mapping tool]
+ - [OSINTUI](https://osintui.com) - An attack surface vector mapping tool
  - Jamie's Lounge - A tech-enabled community to monitor and predict progress in various fields. (Down for maintenance)
  - [Project Y](https://github.com/jamie-legg/projecty) - My personal answer to the cries for open source, visually purified social media. (Under construction)
 
