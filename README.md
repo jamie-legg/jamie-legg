@@ -3,7 +3,8 @@
 ---
 <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
 
-I'm a self proclaimed information security nerd working in London. My passion is based in intelligence gathering, and my experience and side projects speak to that. Some of my personally notable work includes:
+I'm an information security analyst working in London. Most recently I am acting as the co-founder and CTO of WYA (WhereYouAt). Using geospatial data and communications data, we are creating a system that allows for fully offline communications even when external providers (Wi-Fi, GPS) fail.
+My passion is based in intelligence gathering, and my experience and side projects speak to that. Some of my personally notable work includes:
  
  - [OSINTUI](https://osintui.com) - An attack surface vector mapping tool
  - Jamie's Lounge - A tech-enabled community to monitor and predict progress in various fields. (Down for maintenance)
