@@ -6,6 +6,7 @@
 I'm an information security analyst working in London. Most recently I am acting as the co-founder and CTO of WYA (WhereYouAt). Using geospatial data and communications data, we are creating a system that allows for fully offline communications even when external providers (Wi-Fi, GPS) fail.
 My passion is based in intelligence gathering, and my experience and side projects speak to that. Some of my personally notable work includes:
  
+ - WYA WORLD(https://wya.world) - The marketing site for WYA
  - [OSINTUI](https://osintui.com) - An attack surface vector mapping tool
  - Jamie's Lounge - A tech-enabled community to monitor and predict progress in various fields. (Down for maintenance)
  - [Project Y](https://github.com/jamie-legg/projecty) - My personal answer to the cries for open source, visually purified social media. (Under construction)
